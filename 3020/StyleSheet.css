@@ -1,0 +1,80 @@
+body {
+    background: rgba(0, 0, 255, 0.3);
+                color: white;
+                font-family: Helvetica Neue, Helvetica, Arial;
+				margin: 0;
+				font-family: Verdana;
+				background-image: url("3020/image18.jpg");
+}
+
+
+
+header {
+    background: black;
+    margin: 10px 40px 10px 40px;
+ }
+.MainLinks {
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+
+ }
+
+ .main{
+     background-image: url("3020/image18.jpg");
+ }
+ .link {
+     display: inline-block;
+     margin: 20px;
+ }
+ .cart {
+    display: inline-block;
+     margin-left: 20px;
+ }
+    .SignIn {
+    display: inline-block;
+     margin-left: 900px;
+ }
+ .picture {
+     float: right;
+ }
+ section {
+     background: rgb(99, 95, 95);
+    
+     color: gray;
+     padding: 20px;
+     display: flex;
+     flex-direction:row;
+ }
+.search{
+   overflow: hidden;
+   
+}
+.search input[type=text]{
+     float: right;
+     padding: 6px;
+    border: none;
+    margin-top:30px;
+     margin-right: 50px;
+    font-size: 17px;
+    margin-left: 1400px;
+}
+ a
+{
+	color: white;
+}
+th, td 
+{
+	padding: 4px;
+}
+			
+img 
+{
+	border-style: solid;
+}
+
+tr 
+{
+	background-color: rgb(99, 95, 95);
+	background-image: url("3020/image18.jpg");
+}
